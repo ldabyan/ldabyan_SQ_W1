@@ -30,7 +30,7 @@ function setup() {
 
   // background() fills the canvas with a colour
   // A single number = greyscale (0 is black, 255 is white)
-  background(30);
+  background(255, 220, 235);
 
   // ----------------------------------------------------------
   // SECTION 1: TEXT
