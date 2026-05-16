@@ -118,10 +118,10 @@ function setup() {
   // Four circles arranged in a diamond: top, left, right, bottom
   // Each has a different fill colour set before drawing it
 
-  fill(230, 200, 0); // yellow — top
+  fill(255, 105, 180);
   ellipse(originX + 248, originY + 68, 24, 24);
 
-  fill(30, 100, 220); // blue — left
+ fill(200, 160, 255);
   ellipse(originX + 224, originY + 92, 24, 24);
 
   fill(200, 30, 30); // red — right
@@ -148,7 +148,7 @@ function setup() {
   fill(180);
   textSize(13);
   textAlign(CENTER);
-  text("controller.png", originX - 150, originY + 295);
+  text("Lulu's Controller", originX - 150, originY + 295);
   text("drawn with shapes", originX + 150, originY + 295);
 
   // --- Dividing line between the two controllers ---
