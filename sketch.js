@@ -15,7 +15,7 @@ let controllerImg;
 function preload() {
   // loadImage() takes a file path relative to index.html
   // The image is stored in the variable so we can use it later
-  controllerImg = loadImage("assets/images/controller.png");
+ controllerImg = loadImage("assets/images/exit8.jpg");
 }
 
 // ------------------------------------------------------------
