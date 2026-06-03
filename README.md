@@ -8,7 +8,7 @@ Open `index.html` in Google Chrome using Live Server.
 To play via GitHub Pages, visit the link provided on the submission page.
 
 **How to interact:**
-- Click the mouse to create red anomaly circles on the screen.
+Click the mouse to create red anomaly circles on the screen.
 
 ## Assets
 
